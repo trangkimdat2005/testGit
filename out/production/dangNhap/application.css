@@ -1,7 +1,10 @@
 .leftLogin{
-    -fx-background-image: url("meo.jpg");
-    -fx-background-size: 330px 570px;
+    -fx-background-image: url("golden.jpg");
+    -fx-background-size: 447px;
 }
-.sceneLogin{
-    -fx-background-color: #ffc1cc;
+.textuser{
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-border-radius: 5px;
 }
