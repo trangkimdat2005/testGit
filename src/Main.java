@@ -14,6 +14,7 @@ public class Main extends Application {
         launch(args);
 
         System.out.println("hello world");
+        snsandljnlnscncc;dncsclkdvkjnvkjdjv
     }
 
     @Override
