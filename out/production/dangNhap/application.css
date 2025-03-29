@@ -1,0 +1,7 @@
+.leftLogin{
+    -fx-background-image: url("meo.jpg");
+    -fx-background-size: 330px 570px;
+}
+.sceneLogin{
+    -fx-background-color: #ffc1cc;
+}

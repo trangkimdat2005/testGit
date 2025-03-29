@@ -1,0 +1,10 @@
+.leftLogin{
+    -fx-background-image: url("golden.jpg");
+    -fx-background-size: 447px;
+}
+.textuser{
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-border-radius: 5px;
+}
